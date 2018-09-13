@@ -1,19 +1,20 @@
 {
   "main": {
     "name":"Benjamin Desmarez",
-    "occupation":"Backend Rails Developer",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "occupation":"Développeur Full Stack Ruby on Rails",
+    "description": "Passionné de développement, de musique, de sport et d'humain. Je suis donc à mon aise avec une bière à la main, avec des gens passionnés à un concert.",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio": "Issue de 4 années d'études en informatique, à Ozanam (Lille) et E-CML (Marseille), l'aspect et la puissance créative des solutions informatiques m'ont toujours captivé.",
+    "bio2": "Développeur web orienté backend, adepte et passionné du Ruby on Rails et de son rayonnement dans l 'open-source, je suis particulièrement intéressé par le développement d'applications web ainsi qu'à la contribution de composants dans cet écosystème.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "email": "bdesmarez@gmail.com",
+    "phone": "07.70.11.88.75",
     "address":{
-      "street":"38 Allée Du Château Blanc",
+      "street":"66 Rue Jeanne d'Arc",
       "city":"Lille",
-      "trueCity":"Lambersart",
+      "trueCity":"Marcq En Baroeul",
       "state":"(Your State)",
-      "zip": "59130"
+      "zip": "59700"
     },
     "website": "http://www.bdesmarez.fr",
     "resumedownload":"http://bdesmarez.fr",
@@ -56,63 +57,93 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Développeur full stack, j'ai une bonne vision globale de ce que signfie héberger et maintenir un site d'envergure.",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "E-CML - Marseille",
+        "degree":"Chef de Projet en Système d'Information",
+        "graduated": "2007 - 2009",
+        "description": "Alternance réalisée chez Mobivillage durant 2 ans."
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "Ozanam - Lille",
+        "degree":"BTS Informatique Industrielle",
+        "graduated": "2007 - 2005",
+        "description":""
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Decathlon France",
+        "title":"Techinal Leader - Java",
+        "years":"Février 2017 - Aujourd'hui",
+        "description":"Au sein de l'équipe CRM, je suis responsable de la partie Identification / Authentification des sportifs de Décathlon. Mise à dispostion de solutions mondiale de stockage. Protection des données personnelles. Respect de la GDPR. Spécialisation oAuth2. "
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Matchbird",
+        "title":"CTO",
+        "years":"2016 - 2017",
+        "description": "Mise en place des repositories privé, récupération du code source. Déploiement des outils de travail en équipe(Slack, Jira, Trello, Bitbucket, etc.). Développement du site Matchbird basé sur Ruby on Rails. Mise en place des nouveaux serveurs de production et de pré - production. Création des scripts de déploiement. Backup des données. Mise en place d 'un VPN et de backup entre la société Allemande et Française. Développement du nouveau site Top - Familienunternehmen basé sur Ruby on Rails. Organisation des Sprints et des méthodes de travail."
+      },
+      {
+        "company": "Frizbiz",
+        "title": "CTO - LEAD DEVELOPER",
+        "years": "2014 - 2015",
+        "description": "Mise en place des repositories privé, récupération du code source. Déploiement des outils de travail en équipe(Slack, Jira, Trello, Bitbucket, etc.). Développement du site FrizBiz basé sur Ruby on Rails. Mise en place des nouveaux serveurs de production et de pré - production. Création des scripts de déploiement. Installation du réseau local interne à l 'entreprise. Gestion d'une équipe de 3 développeurs."
+      },
+      {
+        "company": "Arobas Music",
+        "title": "PHP / Rails DEVELOPER",
+        "years": "2011 - 2014",
+        "description": "Développement du site Guitar Pro (PHP/SQL). Site e - commerce multi - lingue basé sur Framework maison. Gestion des serveurs d'hébergement et de téléchargement (software). Développement du site MySongBook (RoR). Site e - commerce basé sur Ruby on Rails. Maintien et développement d 'un nouveau site de tablatures. Intégration dans Guitar Pro via QTBrowser(v4)"
+      },
+      {
+        "company": "Oliverstore",
+        "title": "LEAD DEVELOPER",
+        "years": "2009 - 2011",
+        "description": "Gestion d'une équipe de 8 développeurs. Mise en place des serveurs de pré - production et développement. Management des prestataires gérant les serveurs de production. Développement du site Stores Discount basé sur un Framework maison PHP."
       }
     ],
     "skills":[
       {
         "name":"Git",
-        "level":"60%"
+        "level":"80%"
       },
       {
-        "name":"Illustrator",
-        "level":"55%"
+        "name":"Ruby On Rails",
+        "level":"85%"
       },
       {
-        "name":"ReactJs",
-        "level":"50%"
+        "name":"Linux",
+        "level":"70%"
+      },
+      {
+        "name": "Docker",
+        "level": "75%"
+      },
+      {
+        "name": "Rancher",
+        "level": "75%"
+      },
+      {
+        "name": "Amazon Services",
+        "level": "65%"
       },
       {
         "name":"CSS",
-        "level":"90%"
+        "level":"50%"
       },
       {
         "name":"HTML5",
-        "level":"80%"
+        "level":"70%"
       },
       {
         "name":"VueJs",
         "level":"50%"
       },
       {
-        "name":"MongoDB",
-        "level":"80%"
+        "name":"PostgreSQL",
+        "level":"70%"
       }
     ]
   },
